@@ -1,0 +1,28 @@
+Twitch API commands
+
+
+Webhooks
+
+https://api.twitch.tv/helix/streams
+	stream on / off / title change / game change
+
+GET https://api.twitch.tv/helix/channels
+	GIVE: broadcaster_id
+	GET: 
+		broadcaster_id
+		broadcaster_name
+		game_name
+		game_id
+		broadcaster_language
+		title
+		delay
+
+
+https://dev.twitch.tv/docs/api/reference#get-channel-chat-badges
+GET https://api.twitch.tv/helix/chat/badges
+	GIVE
+		broadcaster_id
+		set.version.image_url_4x	Large
+
+
+

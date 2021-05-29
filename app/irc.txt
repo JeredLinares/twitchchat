@@ -1,0 +1,17 @@
+
+
+
+IRC Client
+
+irc://irc.chat.twitch.tv:6667
+
+Prefix
+	"oauth:" 
+
+oauth token generator: 
+	https://twitchapps.com/tmi/
+
+
+
+
+
